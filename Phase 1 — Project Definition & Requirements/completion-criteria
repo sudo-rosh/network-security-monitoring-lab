@@ -1,0 +1,7 @@
+The project will be considered successful when:
+- A functioning and segmented network is built in Cisco Packet Tracer.
+- Appropriate security controls are implemented and tested.
+- 2–3 realistic attack scenarios are modeled and investigated.
+- Normal and suspicious network traffic can be analyzed using Wireshark.
+- A Python-based traffic analyzer can identify and report potentially suspicious activity.
+- The complete project is documented, reproducible, and explainable as a portfolio project.
