@@ -36,7 +36,7 @@ phase-8/    Final security assessment
 
 🚧 In Progress
 
-Current phase: **Phase 1 — Project Definition & Requirements**
+Current phase: **Phase 3 — Network Segmentation**
 
 ## Tools
 - Cisco Packet Tracer
