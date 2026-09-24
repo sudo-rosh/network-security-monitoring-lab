@@ -123,7 +123,7 @@ show ip interface brief
 
 All six VLAN subinterfaces were shown as **up/up**.
 
-![[Attachments/router-ip-interface.png]]
+![[Phase 3 — Network Segmentation\Attachments\router-ip-interface.png]]
 
 Inter-VLAN communication was then tested between the following segments:
 
@@ -134,7 +134,7 @@ Inter-VLAN communication was then tested between the following segments:
 - Lab Tech → Front Desk
     
 
-![[Attachments/inter-connectivity-test.png]]
+![[Phase 3 — Network Segmentation\Attachments\inter-connectivity-test.png"]]
 
 The successful tests confirmed that traffic could be routed between the VLANs through the Hospital Router.
 
